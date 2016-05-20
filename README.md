@@ -1,2 +1,2 @@
 # Telerik
-My homework from Telerik Academy course
+My homework from Telerik Academy course 2016.
